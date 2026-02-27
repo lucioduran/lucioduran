@@ -1,6 +1,6 @@
 ### Lucio Duran
 
-**Technology Director · Full-Stack Product Architect**
+**Technology Director · Building the AI Agent Experience layer**
 
 22+ years building and shipping software products across healthcare, e-commerce, and marketplace verticals — from system design to production deployment. Currently focused on AI agent infrastructure and developer tooling.
 
