@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://github.com/lucioduran.png" width="150" style="border-radius:50%" />
+</p>
+
 # Hey, I'm Lucio Duran
 
 **CTO · AI-Driven Technology Director · Full-Stack Product Architect**
 
 22+ years building software products across healthcare, e-commerce, and marketplace verticals. Currently focused on **agentic AI systems** and the **AI Agent Experience (AX)** layer — making the web ready for AI agents.
 
-Based in Uruguay. Leading engineering at **LOi**.
+Based in Uruguay. Leading engineering at **[LOi](https://github.com/laofertairresistible)**.
 
 ---
 
