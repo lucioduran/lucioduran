@@ -22,13 +22,11 @@ Open-source suite for making the web AI-agent-ready:
 
 | Tool | What it does | |
 |---|---|---|
-| [**ax-audit**](https://github.com/lucioduran/ax-audit) | Audit any site's AX readiness across 14 checks. Lighthouse for AI agents. | `npx ax-audit <url>` |
-| [**ax-skill**](https://github.com/lucioduran/ax-skill) | Claude Code skill — build AX-optimized sites from the first line of code | `/ax` in Claude Code |
+| [**ax-skill**](https://github.com/lucioduran/ax-skill) | Claude Code skill : build AX-optimized sites from the first line of code | `/ax` in Claude Code |
 | [**ax-init**](https://github.com/lucioduran/ax-init) | Scaffold all missing AX files for any project in seconds | `npx ax-init` |
 | [**ax-cite**](https://github.com/lucioduran/ax-cite) | Web component for AI-extractable citation blocks | `npm i ax-cite` |
 | [**ax-web-readiness**](https://github.com/lucioduran/ax-web-readiness) | AX audit dataset of the top 10K websites | [Hugging Face](https://huggingface.co/datasets/lucioduran/ax-web-readiness) |
 
-[![ax-audit](https://img.shields.io/npm/v/ax-audit.svg?label=ax-audit&color=d97706)](https://www.npmjs.com/package/ax-audit)
 [![ax-init](https://img.shields.io/npm/v/ax-init.svg?label=ax-init&color=d97706)](https://www.npmjs.com/package/ax-init)
 [![ax-cite](https://img.shields.io/npm/v/ax-cite.svg?label=ax-cite&color=d97706)](https://www.npmjs.com/package/ax-cite)
 
