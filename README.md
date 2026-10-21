@@ -18,7 +18,7 @@ Leading engineering at **[LOi](https://github.com/laofertairresistible)**. Focus
 
 ### Engineering and AI Projects
 
-Ten open-source projects with reproducible experiments, tests, CI, and published releases. Each repository documents its methods, raw evidence, and limitations. Results apply to the evaluated fixtures and hardware.
+Fifteen open-source projects with reproducible experiments, tests, CI, and published releases. Each repository documents its methods, raw evidence, and limitations. Results apply to the evaluated fixtures and hardware.
 
 | Project | What it explores |
 | --- | --- |
@@ -32,6 +32,11 @@ Ten open-source projects with reproducible experiments, tests, CI, and published
 | [chunking-ablation-suite](https://github.com/lucioduran/chunking-ablation-suite) | Compare fixed, structural, and semantic chunking with retrieval evidence. |
 | [vector-search-portability](https://github.com/lucioduran/vector-search-portability) | Compare vector engines against exact neighbors and equivalent filters. |
 | [reranker-budget-router](https://github.com/lucioduran/reranker-budget-router) | Evaluate reranking decisions against quality, latency, and compute budgets. |
+| [bilingual-retrieval-evals](https://github.com/lucioduran/bilingual-retrieval-evals) | Evaluate English and Spanish retrieval across languages, entities, and accents. |
+| [incremental-rag-index](https://github.com/lucioduran/incremental-rag-index) | Verify incremental index updates, deletions, and crash recovery against full rebuilds. |
+| [structured-output-contracts](https://github.com/lucioduran/structured-output-contracts) | Check schema validity, semantic accuracy, and retries across local models. |
+| [ai-model-routing-policy](https://github.com/lucioduran/ai-model-routing-policy) | Compare model routing with quality, cost, latency, and outage evidence. |
+| [llm-semantic-cache](https://github.com/lucioduran/llm-semantic-cache) | Measure exact and semantic caching with user, permission, date, and version boundaries. |
 
 ---
 
