@@ -32,6 +32,25 @@ Open-source suite for making the web AI-agent-ready:
 
 ---
 
+### Engineering and AI Projects
+
+Ten open-source projects with reproducible experiments, tests, CI, and published releases. Each repository documents its methods, raw evidence, and limitations. Results apply to the evaluated fixtures and hardware.
+
+| Project | What it explores |
+| --- | --- |
+| [citable-publication](https://github.com/lucioduran/citable-publication) | Reproducible publication checks and citation evidence. |
+| [rag-evaluation-workbench](https://github.com/lucioduran/rag-evaluation-workbench) | Compare retrieval strategies with repeatable local evaluations. |
+| [agent-replay-runtime](https://github.com/lucioduran/agent-replay-runtime) | Recover tool executions with event logs and idempotency-aware replay. |
+| [agent-injection-evals](https://github.com/lucioduran/agent-injection-evals) | Measure prompt injection attacks and tool-policy defenses. |
+| [mcp-contract-harness](https://github.com/lucioduran/mcp-contract-harness) | Verify MCP negotiation, pagination, cancellation, and errors across clients. |
+| [llm-serving-bench](https://github.com/lucioduran/llm-serving-bench) | Measure streaming inference latency, throughput, and memory on local hardware. |
+| [citation-grounding-checker](https://github.com/lucioduran/citation-grounding-checker) | Evaluate whether cited passages support, contradict, or leave claims unresolved. |
+| [chunking-ablation-suite](https://github.com/lucioduran/chunking-ablation-suite) | Compare fixed, structural, and semantic chunking with retrieval evidence. |
+| [vector-search-portability](https://github.com/lucioduran/vector-search-portability) | Compare vector engines against exact neighbors and equivalent filters. |
+| [reranker-budget-router](https://github.com/lucioduran/reranker-budget-router) | Evaluate reranking decisions against quality, latency, and compute budgets. |
+
+---
+
 ### Stack
 
 TypeScript · Python · Next.js · Node.js · React Native · GraphQL · PostgreSQL
