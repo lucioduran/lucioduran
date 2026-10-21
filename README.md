@@ -16,22 +16,6 @@ Leading engineering at **[LOi](https://github.com/laofertairresistible)**. Focus
 
 ---
 
-### AX Toolkit
-
-Open-source suite for making the web AI-agent-ready:
-
-| Tool | What it does | |
-|---|---|---|
-| [**ax-skill**](https://github.com/lucioduran/ax-skill) | Claude Code skill : build AX-optimized sites from the first line of code | `/ax` in Claude Code |
-| [**ax-init**](https://github.com/lucioduran/ax-init) | Scaffold all missing AX files for any project in seconds | `npx ax-init` |
-| [**ax-cite**](https://github.com/lucioduran/ax-cite) | Web component for AI-extractable citation blocks | `npm i ax-cite` |
-| [**ax-web-readiness**](https://github.com/lucioduran/ax-web-readiness) | AX audit dataset of the top 10K websites | [Hugging Face](https://huggingface.co/datasets/lucioduran/ax-web-readiness) |
-
-[![ax-init](https://img.shields.io/npm/v/ax-init.svg?label=ax-init&color=d97706)](https://www.npmjs.com/package/ax-init)
-[![ax-cite](https://img.shields.io/npm/v/ax-cite.svg?label=ax-cite&color=d97706)](https://www.npmjs.com/package/ax-cite)
-
----
-
 ### Engineering and AI Projects
 
 Ten open-source projects with reproducible experiments, tests, CI, and published releases. Each repository documents its methods, raw evidence, and limitations. Results apply to the evaluated fixtures and hardware.
@@ -48,6 +32,22 @@ Ten open-source projects with reproducible experiments, tests, CI, and published
 | [chunking-ablation-suite](https://github.com/lucioduran/chunking-ablation-suite) | Compare fixed, structural, and semantic chunking with retrieval evidence. |
 | [vector-search-portability](https://github.com/lucioduran/vector-search-portability) | Compare vector engines against exact neighbors and equivalent filters. |
 | [reranker-budget-router](https://github.com/lucioduran/reranker-budget-router) | Evaluate reranking decisions against quality, latency, and compute budgets. |
+
+---
+
+### AX Toolkit
+
+Open-source suite for making the web AI-agent-ready:
+
+| Tool | What it does | |
+|---|---|---|
+| [**ax-skill**](https://github.com/lucioduran/ax-skill) | Claude Code skill : build AX-optimized sites from the first line of code | `/ax` in Claude Code |
+| [**ax-init**](https://github.com/lucioduran/ax-init) | Scaffold all missing AX files for any project in seconds | `npx ax-init` |
+| [**ax-cite**](https://github.com/lucioduran/ax-cite) | Web component for AI-extractable citation blocks | `npm i ax-cite` |
+| [**ax-web-readiness**](https://github.com/lucioduran/ax-web-readiness) | AX audit dataset of the top 10K websites | [Hugging Face](https://huggingface.co/datasets/lucioduran/ax-web-readiness) |
+
+[![ax-init](https://img.shields.io/npm/v/ax-init.svg?label=ax-init&color=d97706)](https://www.npmjs.com/package/ax-init)
+[![ax-cite](https://img.shields.io/npm/v/ax-cite.svg?label=ax-cite&color=d97706)](https://www.npmjs.com/package/ax-cite)
 
 ---
 
