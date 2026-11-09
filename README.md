@@ -18,7 +18,7 @@ Leading engineering at **[LOi](https://github.com/laofertairresistible)**. Focus
 
 ### Engineering and AI Projects
 
-Fifteen open-source projects with reproducible experiments, tests, CI, and published releases. Each repository documents its methods, raw evidence, and limitations. Results apply to the evaluated fixtures and hardware.
+Twenty open-source projects with reproducible experiments, tests, CI, and published releases. Each repository documents its methods, raw evidence, and limitations. Results apply to the evaluated fixtures and hardware.
 
 | Project | What it explores |
 | --- | --- |
@@ -37,6 +37,11 @@ Fifteen open-source projects with reproducible experiments, tests, CI, and publi
 | [structured-output-contracts](https://github.com/lucioduran/structured-output-contracts) | Check schema validity, semantic accuracy, and retries across local models. |
 | [ai-model-routing-policy](https://github.com/lucioduran/ai-model-routing-policy) | Compare model routing with quality, cost, latency, and outage evidence. |
 | [llm-semantic-cache](https://github.com/lucioduran/llm-semantic-cache) | Measure exact and semantic caching with user, permission, date, and version boundaries. |
+| [agent-memory-lifecycle](https://github.com/lucioduran/agent-memory-lifecycle) | Track memory provenance, corrections, expiration, deletion, and selection decisions. |
+| [agent-tool-capabilities](https://github.com/lucioduran/agent-tool-capabilities) | Enforce tool, argument, resource, and budget scopes with auditable denials. |
+| [agent-sandbox-boundaries](https://github.com/lucioduran/agent-sandbox-boundaries) | Test enforced WebAssembly isolation and explicitly bounded resource profiles. |
+| [agent-context-budget](https://github.com/lucioduran/agent-context-budget) | Compare context selection and compression using answer, evidence, and citation metrics. |
+| [agent-trace-observability](https://github.com/lucioduran/agent-trace-observability) | Trace local agent operations with bounded exports and sensitive-data filtering. |
 
 ---
 
