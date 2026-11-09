@@ -18,7 +18,7 @@ Leading engineering at **[LOi](https://github.com/laofertairresistible)**. Focus
 
 ### Engineering and AI Projects
 
-Twenty open-source projects with reproducible experiments, tests, CI, and published releases. Each repository documents its methods, raw evidence, and limitations. Results apply to the evaluated fixtures and hardware.
+Twenty-five open-source projects with reproducible experiments, tests, CI, and published releases. Each repository documents its methods, raw evidence, and limitations. Results apply to the evaluated fixtures and hardware.
 
 | Project | What it explores |
 | --- | --- |
@@ -42,6 +42,11 @@ Twenty open-source projects with reproducible experiments, tests, CI, and publis
 | [agent-sandbox-boundaries](https://github.com/lucioduran/agent-sandbox-boundaries) | Test enforced WebAssembly isolation and explicitly bounded resource profiles. |
 | [agent-context-budget](https://github.com/lucioduran/agent-context-budget) | Compare context selection and compression using answer, evidence, and citation metrics. |
 | [agent-trace-observability](https://github.com/lucioduran/agent-trace-observability) | Trace local agent operations with bounded exports and sensitive-data filtering. |
+| [agent-policy-state-machine](https://github.com/lucioduran/agent-policy-state-machine) | Compare authorization and compensation behavior with a finite TLA+ model and runtime replay. |
+| [llm-stream-backpressure](https://github.com/lucioduran/llm-stream-backpressure) | Measure bounded SSE buffering, slow consumers and cancellation with synthetic producers over real sockets. |
+| [model-regression-gate](https://github.com/lucioduran/model-regression-gate) | Gate model promotion with versioned tasks, paired slice comparisons and explicit review outcomes. |
+| [quantization-quality-lab](https://github.com/lucioduran/quantization-quality-lab) | Compare real CPU int8 quantization across weight storage, memory, latency and retrieval quality. |
+| [webgpu-local-inference](https://github.com/lucioduran/webgpu-local-inference) | Verify a small browser classifier using WebGPU, WASM fallback and explicitly cached assets. |
 
 ---
 
